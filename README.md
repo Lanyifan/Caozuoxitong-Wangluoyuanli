@@ -1,2 +1,2 @@
-# Caozuoxitong-Wangluoyuanli
+# 《操作系统》以及《网络原理》自考复习资料
 自考操作系统以及网络原理复习资料
